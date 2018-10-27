@@ -1,1 +1,1 @@
-[null,{"name":"MemberJoin","temp":"economy","event-type":"6","actions":[{"info":"2","find":"${tempVars(\"economy\"}","storage":"1","varName":"eco","name":"Find Member"},{"info":"1","find":"E | Economy Class","storage":"1","varName":"find","name":"Find Role"},{"member":"2","varName2":"${tempVars(\"eco\")}","role":"3","varName":"find","name":"Add Member Role"}]}]
+[null]
